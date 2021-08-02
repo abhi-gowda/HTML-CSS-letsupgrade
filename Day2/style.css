@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 187, 0);
+    margin: 0;
+}
+
+.blog-container {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px -3px;;
+    font-weight: 100;
+    margin: 25px auto;
+    width: 550px;
+}
+
+.blog-cover {
+    background: url(https://akm-img-a-in.tosshub.com/businesstoday/images/story/202107/sandes-sixteen_nine.png?size=1200:675);
+    background-size: cover;
+    border-radius: 5px 5px 0 0;
+    height: 20rem;
+}
+
+.blog-body {
+    padding: 5px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.blog-title h1 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.blog-summary p {
+    text-align: justify;
+    color: #000000;
+}
+
+h1{
+    color: rgb(2, 0, 122);
+}
